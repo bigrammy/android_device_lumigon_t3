@@ -1,0 +1,13 @@
+To Do: List
+
+Fix Partition sizes on BoardConfig
+
+Fix/Check Dalvik/HWUI in device.mk
+
+Check system.prop against t3 device
+
+Swap the prebuilt kernel
+
+Check sepolicy
+
+Check .rc files against stock ones in the /rootdir
