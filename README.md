@@ -7,7 +7,7 @@ This branch is device for building of the LineageOS/CM 13.0 and Android Marshmal
 
 # About Device
 
-![Lumigon T3](https://www.lumigon.com/wp-content/uploads/2020/05/lumigont3.jpghttps://www.lumigon.com/wp-content/uploads/2020/05/lumigont3.jpg "Lumigon T3 in Orange")
+![Lumigon T3](https://www.lumigon.com/wp-content/uploads/2020/05/lumigont3.jpg "Lumigon T3 in Orange")
 
 Released on June 2016, the Lumigon T3 (codenamed _"T3"_) is a flagship smartphone from Lumigon. The T3 now supports LineageOS 13.0!
 
