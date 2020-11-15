@@ -2,9 +2,9 @@
 
 ### CAMERA'S: ###
 
-- REAR MAIN:
--[] Not Supported:
--[] Broken:
+REAR MAIN:
+- [ ] Not Supported:
+- [ ] Broken:
 
 [] Working:
 
