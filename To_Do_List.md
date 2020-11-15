@@ -125,7 +125,7 @@ VOLUME DOWN:
 - [ ] Quality Bad:
 - [ ] Disabled:
 
-- POWER:
+POWER:
 - [ ] Not Supported:
 - [ ] Broken:
 - [ ] Working:
@@ -136,7 +136,7 @@ VOLUME DOWN:
 - [ ] Quality Bad:
 - [ ] Disabled:
 
-- HOME:
+HOME:
 - [ ] Not Supported:
 - [ ] Broken:
 - [ ] Working:
