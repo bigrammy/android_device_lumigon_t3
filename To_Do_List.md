@@ -3,15 +3,21 @@
 ### CAMERA'S: ###
 
 - REAR MAIN:
-[ ] Not Supported:
-[ ] Broken:
-[ ] Working:
-[ ] As Expected:
-[ ] Not as Expected:
-[ ] Quality Good:
-[ ] Quality Fair:
-[ ] Quality Bad:
-[ ] Disabled:
+[] Not Supported:
+
+[] Broken:
+
+[] Working:
+
+[] As Expected:
+
+[] Not as Expected:
+
+[] Quality Good:
+
+[] Quality Fair:
+[] Quality Bad:
+[] Disabled:
 - REAR MINOR:
 [ ] Not Supported:
 [ ] Broken:
