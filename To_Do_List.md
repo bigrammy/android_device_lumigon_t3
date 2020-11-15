@@ -216,7 +216,7 @@
 [ ] Quality Bad:
 [ ] Disabled:
 - FM:
-[ ] Not Supported:
+[*] Not Supported:
 [ ] Broken:
 [ ] Working:
 [ ] As Expected:
