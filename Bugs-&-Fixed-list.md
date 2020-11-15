@@ -1,4 +1,6 @@
-### Lumigon-T3 Bugs Tracker list. ###
+### Lumigon-T3 Bugs & Fixed list. ###
+![Lumigon T3](https://i.imgur.com/igcslT1.jpg "Lumigon T3 bug squash")
+
 
 ### CAMERA'S: ###
 
