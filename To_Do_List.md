@@ -34,6 +34,7 @@ FRONT MAIN:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 REAR Touch/Track Pad:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -44,6 +45,7 @@ REAR Touch/Track Pad:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 FINGERPRINT:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -54,6 +56,7 @@ FINGERPRINT:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 PROXIMITY SENSOR:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -64,6 +67,7 @@ PROXIMITY SENSOR:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 LEDS MAIN:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -74,6 +78,7 @@ LEDS MAIN:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 LEDS FLASH:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -84,6 +89,7 @@ LEDS FLASH:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 LEDS INFRARED:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -94,6 +100,7 @@ LEDS INFRARED:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 PHYSICAL BUTTONS START:
 
 VOLUME UP:
@@ -106,6 +113,7 @@ VOLUME UP:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 VOLUME DOWN:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -116,6 +124,7 @@ VOLUME DOWN:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 - POWER:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -126,6 +135,7 @@ VOLUME DOWN:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 - HOME:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -136,6 +146,7 @@ VOLUME DOWN:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 CAMERA:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -146,6 +157,7 @@ CAMERA:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 PHYSICAL BUTTONS END:
 
 WIFI:
@@ -158,6 +170,7 @@ WIFI:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 BLUETOOTH:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -168,6 +181,7 @@ BLUETOOTH:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 NFC:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -178,6 +192,7 @@ NFC:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 HOTNOT:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -188,6 +203,7 @@ HOTNOT:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 IR-BLASTER:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -198,6 +214,7 @@ IR-BLASTER:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 TOUCHSCREEN:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -208,6 +225,7 @@ TOUCHSCREEN:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 LCM:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -218,6 +236,7 @@ LCM:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 FM:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -228,6 +247,7 @@ FM:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 RIL:
 
 CALLS OUT:
@@ -240,6 +260,7 @@ CALLS OUT:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 CALLS IN:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -250,6 +271,7 @@ CALLS IN:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 SMS OUT:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -260,6 +282,7 @@ SMS OUT:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 SMS IN:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -270,6 +293,7 @@ SMS IN:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 MMS:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -280,6 +304,7 @@ MMS:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 DATA 3G:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -290,6 +315,7 @@ DATA 3G:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 DATA 4G/LTE:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -300,6 +326,7 @@ DATA 4G/LTE:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 VOIP:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -310,6 +337,7 @@ VOIP:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 VOLTE:
 - [ ] Not Supported:
 - [ ] Broken:
