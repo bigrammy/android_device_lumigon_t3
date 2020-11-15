@@ -106,8 +106,8 @@ PHYSICAL BUTTONS START:
 VOLUME UP:
 - [ ] Not Supported:
 - [ ] Broken:
-- [*] Working:
-- [*] As Expected:
+- [X] Working:
+- [X] As Expected:
 - [ ] Not as Expected:
 - [ ] Quality Good:
 - [ ] Quality Fair:
@@ -117,8 +117,8 @@ VOLUME UP:
 VOLUME DOWN:
 - [ ] Not Supported:
 - [ ] Broken:
-- [*] Working:
-- [*] As Expected:
+- [X] Working:
+- [X] As Expected:
 - [ ] Not as Expected:
 - [ ] Quality Good:
 - [ ] Quality Fair:
@@ -128,8 +128,8 @@ VOLUME DOWN:
  POWER:
 - [ ] Not Supported:
 - [ ] Broken:
-- [*] Working:
-- [*] As Expected:
+- [X] Working:
+- [X] As Expected:
 - [ ] Not as Expected:
 - [ ] Quality Good:
 - [ ] Quality Fair:
@@ -139,9 +139,9 @@ VOLUME DOWN:
  HOME:
 - [ ] Not Supported:
 - [ ] Broken:
-- [*] Working:
+- [X] Working:
 - [ ] As Expected:
-- [*] Not as Expected:
+- [X] Not as Expected:
 - [ ] Quality Good:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
@@ -150,8 +150,8 @@ VOLUME DOWN:
 CAMERA:
 - [ ] Not Supported:
 - [ ] Broken:
-- [*] Working:
-- [*] As Expected:
+- [X] Working:
+- [X] As Expected:
 - [ ] Not as Expected:
 - [ ] Quality Good:
 - [ ] Quality Fair:
