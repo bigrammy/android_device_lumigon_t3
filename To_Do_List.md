@@ -12,6 +12,7 @@ REAR MAIN:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 REAR MINOR:
 - [ ] Not Supported:
 - [ ] Broken:
@@ -22,6 +23,7 @@ REAR MINOR:
 - [ ] Quality Fair:
 - [ ] Quality Bad:
 - [ ] Disabled:
+
 FRONT MAIN:
 - [ ] Not Supported:
 - [ ] Broken:
